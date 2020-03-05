@@ -2,6 +2,6 @@
 
 def prime?(num)
   if num <= 0 
-    return FALSE
+    return false 
   end 
 end 
